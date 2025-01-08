@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    background-color: #330809;
+}
+.card{
+    width:auto;
+    background-color: #8c2a2a;
+    padding: 3rem 2rem;
+    box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+}
+.property{
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    margin: 1rem 0;
+}
