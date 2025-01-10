@@ -5,7 +5,10 @@ This project is a **Dictionary App** designed to provide users with a user-frien
 
 ## Features  
 - A modern and interactive user interface created using **HTML** and **CSS**.  
-- Utilization of a variety of **CSS commands** to enhance usability and interactivity.  
+- Utilization of a variety of **CSS commands** to enhance usability and interactivity.
+## JavaScript 
+- Javascript file is created.
+- It contains the API for a dictionary app.
 
 ## Future Plans  
 As I continue to build upon this project, I aim to:  
@@ -16,7 +19,7 @@ As I continue to build upon this project, I aim to:
 ## Technologies Used  
 - **HTML**  
 - **CSS**
-- **JAVA** 
+- **JAVASCRIPT** 
 
 ## Acknowledgements  
 This project is a step forward in my journey of learning and building engaging web applications.  
