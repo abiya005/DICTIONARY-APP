@@ -22,7 +22,8 @@ As I continue to build upon this project, I aim to:
 - **JAVASCRIPT** 
 
 ## Acknowledgements  
-This project is a step forward in my journey of learning and building engaging web applications.  
+This project is a step forward in my journey of learning and building engaging web applications.
+Have successfully completed my DICTIONARY-APP project.
 .
 .
 .
