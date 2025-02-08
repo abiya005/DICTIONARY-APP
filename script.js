@@ -51,5 +51,5 @@ async function fetchandCreateCard() {
                 </div>
 
             </div>
-`//chumma
+`
 }
